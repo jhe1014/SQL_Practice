@@ -672,3 +672,5 @@ UPDATE member m
      , m.gender = 'M'
  WHERE m.member_id = 'M009'
 ;
+
+COMMIT;
